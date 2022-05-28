@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "jinweiOS/blog", // TODO: 修改默认跳转仓库
+  repo: "kyunix/vue", // TODO: 修改默认跳转仓库
 
   docsDir: "blog",
 
@@ -31,7 +31,7 @@ export default hopeTheme({
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   blog: {
-    description: "一个前端开发者", //TODO: 一个前端开发者
+    description: "你爹", //TODO: 一个前端开发者
     intro: "/intro.html",
     medias: {
       GitHub: "https://github.com" // TODO: 有人self github

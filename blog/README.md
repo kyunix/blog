@@ -2,15 +2,15 @@
 home: true
 layout: Blog
 icon: home
-title: 博客主页
+title: 丁真的博客主页
 heroImage: /logo.svg
-heroText: 你博客的名称 #TODO: 你博客的名称
+heroText: 好笈癹炫酷 #TODO: 真几把炫酷
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语 #TODO: 你可以在这里放置你的口号与标语
+tagline: 王坤哥哥，我爱你 #TODO: 王坤，我爱你
 projects:
   - icon: project
-    name: 短视频H5 #TODO: 你自己的项目
-    desc: 滚动方案、阿里云播放器
+    name: 短视频H5 #TODO: 嘿嘿嘿
+    desc: 滚动方案❤、阿里云播放器
     link: http://web.iproute.cn/
 
   # - icon: link
@@ -38,5 +38,5 @@ projects:
   #   desc: 自定义详细介绍
   #   link: https://你的自定义链接
 
-footer: 自定义你的页脚文字 #TODO: 自定义你自己的页脚文字
+footer: 到底了哦 #TODO: 到底了哦
 ---
