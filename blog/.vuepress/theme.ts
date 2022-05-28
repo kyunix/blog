@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
 
   author: {
-    name: "Mr.Dick",
+    name: "Mr.Hope",
     url: "https://mrhope.site",
   },
 
